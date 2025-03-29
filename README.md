@@ -17,6 +17,14 @@ Due to the nature of the collection of the data, not all of the headlines are re
 
 Just run the `florida.py` file
 
+Upon running, 3 graphs should pop up and look like this:
+
+![A line graph showing upvotes over time](imgs/Florida1.png)
+
+![A bar graph showing some hand selected words and their frequency in the headlines](imgs/Florida2.png)
+
+![A bar graph showing the 25 most common uncommon words in the hedlines](imgs/Florida3.png)
+
 The `florida_man.csv` file is also included for your convenience
 
 ## Source
